@@ -1,6 +1,6 @@
 * { 
     /* border: 2px solid red; */
-    margin: 5px auto;
+    margin: 15px auto;
 
 }
 
@@ -34,4 +34,6 @@ h3, h4, h5, h6 {
 .image {
     align-items: center;
     display:block;
+    background-color: orangered;
+    padding: 25px 100px;
 }
