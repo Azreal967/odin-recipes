@@ -1,6 +1,14 @@
+* { 
+    /* border: 2px solid red; */
+    margin: 5px auto;
+
+}
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
+    height: 100px;
+    width: 1000px;
+    margin: 0 auto;
 }
 
 h1, h2 {
@@ -18,5 +26,12 @@ h3, h4, h5, h6 {
 
 .ingredients {
     color: rebeccapurple;
+    margin: 0 auto;
+    width: 300px;
    
+}
+
+.image {
+    align-items: center;
+    display:block;
 }
